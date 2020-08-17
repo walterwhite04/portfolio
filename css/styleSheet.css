@@ -667,7 +667,17 @@ footer {
     font-size: 20px;
     
   }
+  .contact .contact-div .email {
+    color: #ffffff;
+    text-align: center;
+    padding-bottom: 2px;
+    padding-top: 10px;
+    border-bottom: 2px solid #00e1ff;
+    width: 200px;
+    margin: 0 auto;
+    font-size: 20px;
 
+}
 
 }
 
